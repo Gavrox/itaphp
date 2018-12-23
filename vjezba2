@@ -1,0 +1,7 @@
+<?php
+echo "moje ime je:";
+echo "<br>";
+echo "Imam 49 godina";
+echo "<br>";
+echo "Skolujem se na IT Academy";
+?>

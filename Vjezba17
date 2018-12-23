@@ -1,0 +1,5 @@
+<?php
+$userStatus = 3;
+$userMessage = ($userStatus ==1 || $userStatus ==2 || $userStatus ==3)? "Welcome user" : "Unknown user";
+echo $userMessage
+?>
