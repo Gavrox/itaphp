@@ -1,0 +1,63 @@
+@charset "utf-8";
+
+body {
+	margin: 0;
+	padding: 10px;
+}
+
+#wraper {
+	background-color: white;
+	margin: auto;
+	width: 80%;
+}
+
+#header {
+	background-color: rgba(133, 194, 239, 1.00);
+
+}
+
+#logo {
+	padding: 10px;
+}
+
+#nav {
+	background-color: rgba(245, 9, 13, 1.00);
+	height: 40px;
+}
+
+.menu {
+	margin: 0;
+	padding: 10px;
+}
+
+.menu a {
+	text-decoration: none;
+}
+
+.menu li {
+	display: inline;
+	text-decoration: none;
+}
+
+#aside {
+	background-color: rgba(19, 119, 224, 1.00);
+	width: 36%;
+	padding: 2%;
+	float: left;
+}
+
+#main {
+	width: 56%;
+	padding: 2%;
+	float: left;
+}
+
+#middle {
+	overflow: hidden;
+}
+
+#footer {
+	background-color: rgba(236, 251, 1, 1.00);
+
+	padding: 10px;
+}
